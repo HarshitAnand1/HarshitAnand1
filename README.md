@@ -1,14 +1,16 @@
 # Hi, I'm Harshit Anand 👋
 
-I'm a developer and student building projects across **AI/ML, automation, cybersecurity, quantitative finance, and full-stack applications**. I enjoy turning practical ideas into useful tools and exploring how software, data, and intelligent systems can work together.
+**B.Tech in Computer Science and Engineering @ IIT Mandi** · Building at the intersection of **machine learning, cybersecurity, systems, and full-stack engineering**.
 
-## What I work on
+[LinkedIn](#) · [GitHub](https://github.com/HarshitAnand1) · [LeetCode](#) · [Codeforces](#) · [CodeChef](#) · [Email](mailto:work4harshitanand@gmail.com)
 
-- 🤖 **AI and automation** — privacy-first tools, AI-assisted workflows, and intelligent job/application utilities
-- 📊 **Data science and quantitative finance** — trading dashboards, backtesting, and machine-learning experiments
-- 🔐 **Cybersecurity** — mobile security analysis, CTF learning resources, reconnaissance tools, and security-focused projects
-- 🛠️ **Software and hardware systems** — web applications, motion-control software, and developer tooling
-- 📚 **Continuous learning** — coursework, technical experiments, and collaborative projects
+## About me
+
+- 🎓 Computer Science and Engineering undergraduate at **Indian Institute of Technology, Mandi**
+- 🤖 Interested in machine learning, deep learning, AI systems, cybersecurity, and scalable software
+- 🛠️ I enjoy taking projects from research and experimentation to deployable products
+- 🧩 Solved **400+ programming problems** across LeetCode, Codeforces, and CodeChef
+- 🤝 Open to collaborating on impactful projects in AI/ML, security, data, and developer tools
 
 ## Featured projects
 
@@ -36,7 +38,39 @@ I'm a developer and student building projects across **AI/ML, automation, cybers
 - Developed an automated RLAIF judge loop with **Llama 3.3 70B** to generate high-confidence DPO training pairs.
 - Designed a three-method evaluation framework scoring outputs on **F1, completeness, and hallucination risk**.
 
-### Other projects
+## Experience
+
+### VR Iris — Eye-Tracking Research Project
+
+**Volunteer, IIT Mandi · December 2024 – January 2025**
+
+- Annotated iris and pupil regions across **9,000+ frames** from 30+ eye-tracking videos.
+- Cleaned and standardized the frame dataset to improve downstream ML pipeline quality.
+- Coordinated dataset preparation for eye-tracking experiments with the research team.
+
+## Achievements
+
+- 🏆 **Top 10**, AiHack India 2026 — Machine Learning Hackathon
+- 🥇 **India Rank 19**, CSAW CTF Quals 2026 — competed solo in a team-based contest
+- 🥉 **3rd Place**, Space Codes Hackathon, IIT Mandi — used CNN, XGBoost, and SVM
+- 💻 Solved **400+ problems** across LeetCode, Codeforces, and CodeChef
+
+## Positions of responsibility
+
+- **Core Member, KamandPrompt**, IIT Mandi — Organized machine learning and deep learning workshops for undergraduate students.
+- **Core Member, Qurosity**, IIT Mandi — Hosted quizzes with 100+ participants, represented IIT Mandi at Inter-IIT competitions, and placed 2nd at RDV’25 India Quiz.
+- **Core Member, The Society of Debaters** — Led college-wide debates and finished 2nd in an inter-college debate competition.
+- **Volunteer, Guidance & Counselling Services** — Mentored juniors on academics and campus life.
+
+## Technical skills
+
+**Languages:** C++ · Python · JavaScript · SQL  
+**Frameworks:** FastAPI · PyTorch · Hugging Face  
+**Libraries:** Scikit-learn · Pandas · NumPy · Plotly · Matplotlib  
+**Databases:** PostgreSQL · MySQL · MongoDB  
+**Developer tools:** Git · Docker · Linux · AWS · Streamlit · Nginx · PM2
+
+## More projects
 
 | Project | Description |
 | --- | --- |
@@ -49,17 +83,6 @@ I'm a developer and student building projects across **AI/ML, automation, cybers
 | [Awesome CTF Resources](https://github.com/HarshitAnand1/awesome-ctf-resources) | A curated collection of CTF frameworks, libraries, and learning resources. |
 | [TrailTale — Touch Grass](https://github.com/HarshitAnand1/trailtale-touch-grass) | A JavaScript project focused on getting outdoors and exploring. |
 
-## Technologies and tools
-
-`Python` · `PyTorch` · `Hugging Face` · `FastAPI` · `JavaScript` · `TypeScript` · `Next.js` · `Node.js` · `PostgreSQL` · `AWS` · `Docker` · `Jupyter` · `Machine Learning` · `Data Analysis` · `Automation` · `Cybersecurity` · `Git/GitHub`
-
-## A little more about me
-
-- 🌱 Exploring practical applications of AI, machine learning, and automation
-- 🔭 Building projects that connect software with real-world workflows
-- 🧪 Learning by experimenting across different technical domains
-- 🤝 Open to collaboration on interesting projects in AI, security, data, and developer tools
-
 ## GitHub activity
 
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitAnand1&show_icons=true&hide_border=true&theme=transparent)
@@ -68,4 +91,4 @@ I'm a developer and student building projects across **AI/ML, automation, cybers
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and connect through GitHub. 🚀
+Thanks for stopping by! Feel free to explore my repositories and connect with me. 🚀
