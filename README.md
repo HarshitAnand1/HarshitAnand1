@@ -6,11 +6,37 @@ I'm a developer and student building projects across **AI/ML, automation, cybers
 
 - 🤖 **AI and automation** — privacy-first tools, AI-assisted workflows, and intelligent job/application utilities
 - 📊 **Data science and quantitative finance** — trading dashboards, backtesting, and machine-learning experiments
-- 🔐 **Cybersecurity** — CTF learning resources, reconnaissance tools, and security-focused projects
+- 🔐 **Cybersecurity** — mobile security analysis, CTF learning resources, reconnaissance tools, and security-focused projects
 - 🛠️ **Software and hardware systems** — web applications, motion-control software, and developer tooling
 - 📚 **Continuous learning** — coursework, technical experiments, and collaborative projects
 
 ## Featured projects
+
+### 🔐 [AEGIS — Mobile Application Security Analysis Platform](https://github.com/HarshitAnand1/aegis)
+
+**Python · FastAPI · Machine Learning · Docker**
+
+- Architected a distributed, multi-service Dockerized platform for detecting Android and iOS malware using **115+ OWASP Mobile Top 10 security rules**.
+- Reduced false positives from **35% to 5%** while maintaining **90%+ recall** across an eight-layer validation pipeline.
+- Trained a Random Forest classifier on **143 ML features**, reaching **95%+ accuracy** with SHAP explainability.
+
+### 📣 [Political Advertisement Analytics Platform](https://github.com/HarshitAnand1/political-spend-online-g67)
+
+**Next.js · Node.js · PostgreSQL · AWS · Plotly**
+
+- Deployed a distributed, multi-tier architecture with PM2 cluster mode across all CPU cores, enabling concurrent request handling for **200,000+ political advertisements**.
+- Optimized large-scale query performance using connection pooling and indexed columns, reducing database latency.
+- Built **six REST API endpoints** powering real-time dashboards across **23+ political parties nationwide**.
+
+### 🧠 [Job Description Enhancer](https://github.com/HarshitAnand1/JD_Enhancer)
+
+**Team project · Python · PyTorch · Hugging Face · FastAPI · Next.js**
+
+- Fine-tuned a **1.5B-parameter LLM** using LoRA and DPO on **1,675 job-description pairs** across 30+ industries.
+- Developed an automated RLAIF judge loop with **Llama 3.3 70B** to generate high-confidence DPO training pairs.
+- Designed a three-method evaluation framework scoring outputs on **F1, completeness, and hallucination risk**.
+
+### Other projects
 
 | Project | Description |
 | --- | --- |
@@ -25,7 +51,7 @@ I'm a developer and student building projects across **AI/ML, automation, cybers
 
 ## Technologies and tools
 
-`Python` · `JavaScript` · `TypeScript` · `HTML/CSS` · `Jupyter` · `Machine Learning` · `Data Analysis` · `Automation` · `Cybersecurity` · `Git/GitHub`
+`Python` · `PyTorch` · `Hugging Face` · `FastAPI` · `JavaScript` · `TypeScript` · `Next.js` · `Node.js` · `PostgreSQL` · `AWS` · `Docker` · `Jupyter` · `Machine Learning` · `Data Analysis` · `Automation` · `Cybersecurity` · `Git/GitHub`
 
 ## A little more about me
 
