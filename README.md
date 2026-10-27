@@ -2,7 +2,7 @@
 
 **B.Tech in Computer Science and Engineering @ IIT Mandi** · Building at the intersection of **machine learning, cybersecurity, systems, and full-stack engineering**.
 
-[LinkedIn](#) · [GitHub](https://github.com/HarshitAnand1) · [LeetCode](#) · [Codeforces](#) · [CodeChef](#) · [Email](mailto:work4harshitanand@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/harshit-anand-478392323) · [GitHub](https://github.com/HarshitAnand1) · [LeetCode](https://leetcode.com/u/JB_GOAT/) · [Codeforces](https://codeforces.com/profile/JB_GOAT) · [CodeChef](https://www.codechef.com/users/jbharshit) · [Email](mailto:work4harshitanand@gmail.com)
 
 ## About me
 
